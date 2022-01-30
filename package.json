@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "mongoose": "^5.10.5",
-    "passport-local-mongoose": "^6.0.1"
+    "passport-local-mongoose": "^6.1.0"
   },
   "devDependencies": {
     "command-line-args": "^5.1.1"
